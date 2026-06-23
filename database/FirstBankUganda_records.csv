@@ -1,0 +1,2 @@
+account_no,first_name,last_name,nin,email,phone,dob,account_type,branch,opening_deposit,second_nin,special_rule
+KLA-2026-CSV001,Allan,Okello,CM1234567890AB,okello.allan@firstbank.co.ug,+256772123456,2004-02-29,Savings,Kampala,50000,,Earns interest, no overdraft
