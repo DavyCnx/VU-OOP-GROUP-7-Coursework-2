@@ -1,12 +1,11 @@
 # VU-OOP-GROUP-7-Coursework-2
-First Bank Uganda Project
-
-The Java app creates FirstBankUganda.accdb here when UCanAccess jars are present.
-If the jars are not present, it saves to FirstBankUganda_records.csv instead.
 
 FIRST BANK UGANDA - ACCOUNT OPENING APP
 
 This is a Java Swing desktop app for the OOP coursework.
+
+The Java app creates FirstBankUganda.accdb here when UCanAccess jars are present.
+If the jars are not present, it saves to FirstBankUganda_records.csv instead.
 
 FILES
 - src/*.java: Java source code.
